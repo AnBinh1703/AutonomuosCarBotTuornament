@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "appautocar",
+    "slug": "snack-05262c5d-eba6-4385-9b2e-e0ab1e4e172f",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./Image/logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.companyname.appname"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Update",
+    "extra": {
+      "eas": {
+        "projectId": "24770464-213c-4b1f-a7bf-1b9aa242d3ef"
+      }
+    }
+  }
+}
