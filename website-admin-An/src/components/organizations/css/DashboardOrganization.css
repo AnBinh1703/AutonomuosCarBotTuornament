@@ -1,0 +1,30 @@
+/* DashboardOrganization.css */
+
+.dashboard-organization {
+  padding: 20px;
+}
+
+.dashboard-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.dropdown {
+  margin-right: 20px;
+  display: inline-block;
+}
+
+.btn-secondary {
+  margin-bottom: 10px;
+}
+
+.dropdown-menu {
+  border-radius: 5px;
+  z-index: 1000;
+}
+
+.section-header {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
